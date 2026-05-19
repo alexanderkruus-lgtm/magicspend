@@ -1,0 +1,2 @@
+# magicspend
+Magicspend ai
